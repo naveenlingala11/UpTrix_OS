@@ -1,0 +1,14 @@
+openapi: 3.1.0
+info:
+  title: UpTrix Backend API (Static YAML)
+  version: "v1"
+  description: "Base OpenAPI YAML for UpTrix. Springdoc will merge/generate the full spec at /v3/api-docs (JSON)."
+servers:
+  - url: http://localhost:8080
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+paths: {}
