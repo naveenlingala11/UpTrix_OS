@@ -91,7 +91,7 @@ A scalable, modular Human Resource & Operations Management System built using **
 
 ### **Tech Highlights**
 
-* Angular 17
+* Angular 21
 * Standalone components
 * Signals for state management
 * Interceptor-based API auth
@@ -115,7 +115,7 @@ A scalable, modular Human Resource & Operations Management System built using **
 
 ### **Tech Highlights**
 
-* Spring Boot 3+
+* Spring Boot 4
 * Spring Security (JWT)
 * WebSocket + STOMP
 * JPA / Hibernate
